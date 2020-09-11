@@ -3,5 +3,5 @@
 
 pushDockerImage {
     dockerRepositoryURL = "docker.io"
-    pushDockerImage = "builder-node-mozjpeg"
+    imageName = "builder-node-mozjpeg"
 }
